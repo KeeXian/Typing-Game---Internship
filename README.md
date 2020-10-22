@@ -1,6 +1,13 @@
 # Typing-Game---Internship
 A simple typing game
 
+Programming Concepts :
+1. HTML
+2. CSS
+3. Advanced CSS
+4. Bootstrap
+5. Javascript and DOM
+
 Instructions :
 
 1. After clicking the start button, a random word will show up.
